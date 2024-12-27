@@ -22,9 +22,11 @@ async function navigatePages(links: string[], page: any) {
           const currentUrl = await page.url();
           const hasH1Tag = await page.$("h1");
           if (hasH1Tag !== null) {
+            console.log("h1 includes");
             okPages.push(currentUrl);
             okUrlCount++;
           } else {
+            console.log("h1 not includes");
             errorPages.push(currentUrl);
             errorUrlCount++;
           }
