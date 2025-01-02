@@ -228,7 +228,12 @@ _::-webkit-full-page-media,
 _:future, :root h1 {
 	color: red;
 }
+https://www.image-map.net/
+/wp/ を消す　参考サイト
 
+https://mamachu-design.com/hp/wpurlfolder/
+https://www.rmcoffice.com/how-to-wp-site-address-change-01/
+https://sdesignlabo.com/web/erase-wp/
 
 ## MWWP Form Reference Sites
 ### Multiple Admins Mails
