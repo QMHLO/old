@@ -223,6 +223,13 @@ https://wordpress.org/plugins/smart-custom-fields/
 
 ![smf3](https://github.com/Qualy-Inc/wordpress-documentation/blob/main/images/amf3.png)
 
+/* Safari Only */
+_::-webkit-full-page-media,
+_:future, :root h1 {
+	color: red;
+}
+
+
 ## MWWP Form Reference Sites
 ### Multiple Admins Mails
 - https://www.wantedly.com/companies/commude/post_articles/413959
